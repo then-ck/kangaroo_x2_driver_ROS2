@@ -11,7 +11,7 @@ Clone the package inside.
 
 Build package. 
 ```
-mkdir -p /kangaroo_ws/src
+mkdir -p ~/kangaroo_ws/src
 cd kangaroo_ws/src/
 git clone https://github.com/then-ck/kangaroo_x2_driver_ROS2.git
 cd ..
